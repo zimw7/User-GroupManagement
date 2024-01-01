@@ -4,9 +4,6 @@
 # Description: This script is for user and group management in Linux.
 
 # Purpose: Display the main menu for user administration
-# Author name: Zimeng Wang
-# Student number: 041095956
-# Date Written: November 25, 2023
 # Algorithm: Clears the screen and prints the user administration menu options.
 show_menu() {
     clear
