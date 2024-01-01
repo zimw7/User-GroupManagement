@@ -1,10 +1,6 @@
 #!/bin/bash
 
 # Name of the script: myscript.sh
-# Author name: Zimeng Wang
-# Student number: 041095956
-# Course and lab section number: CST8102 Lab Section 321
-# Date of completion: November 25, 2023
 # Description: This script is for user and group management in Linux.
 
 # Purpose: Display the main menu for user administration
